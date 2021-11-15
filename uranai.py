@@ -3,7 +3,6 @@ import random
 import IPython
 from google.colab import output
 
-
 n = 0 
 def chat(text, **kw):  #チャット用の関数（ここを書き換える）
   global n
